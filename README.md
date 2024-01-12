@@ -1,3 +1,4 @@
 # JavaEndTermproject
-Here is our end term project
+
+ERD for this project:
 ![Entity relationship diagram](ERD.png)
